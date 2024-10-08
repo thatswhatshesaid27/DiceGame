@@ -20,7 +20,10 @@ A simple Dice Game built with React and Vite that utilizes hooks, state transiti
 
 Follow these steps to set up the project locally:
 
-### 1. Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/thatswhatshesaid27/DiceGame.git
+cd DiceGame
+npm install
+npm run dev
